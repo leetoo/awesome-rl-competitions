@@ -80,5 +80,6 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Running     | -          | 2021-05-31 | IEEE COG 2021 | [The Dota 2 5v5 AI Competition](https://games.mau.se/research/the-dota2-5v5-ai-competition/) |
 | Running     | 2021-02-17 | 2021-05-31 | N/A | [Habitat Challenge 2021](https://aihabitat.org/challenge/2021/) |
 
+more 2021 competitions :
 [12 Active AI Game Competitions to Check Out in 2021](https://towardsdatascience.com/12-active-ai-game-competitions-ongoing-upcoming-6d97f3c3f920)
 

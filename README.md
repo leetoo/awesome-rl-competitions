@@ -79,3 +79,6 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | N/A     | 2021-03-09 | 2021-05-07 | CVPR 2021  | [Multi-Agent Behavior Challenge](https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications) |
 | Running     | -          | 2021-05-31 | IEEE COG 2021 | [The Dota 2 5v5 AI Competition](https://games.mau.se/research/the-dota2-5v5-ai-competition/) |
 | Running     | 2021-02-17 | 2021-05-31 | N/A | [Habitat Challenge 2021](https://aihabitat.org/challenge/2021/) |
+
+[12 Active AI Game Competitions to Check Out in 2021](https://towardsdatascience.com/12-active-ai-game-competitions-ongoing-upcoming-6d97f3c3f920)
+
